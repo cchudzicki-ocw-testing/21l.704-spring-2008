@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section provides information on the three essay assignments,
+  a guide to writing papers, and an example of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
